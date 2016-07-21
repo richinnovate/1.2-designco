@@ -1,0 +1,28 @@
+.navigation li {
+  display: inline-block;
+  list-style-type: none;
+  font: sans-serif;
+  text-size: "7"
+  pading: 20px;
+}
+
+.navigation ul {
+    background-color: gainsboro;
+    border-top: 5px solid red;
+
+}
+.search {
+    margin-right: 100px;
+    margin-left: 500px;
+}
+
+h1 {  text-align: center;
+      text-style: "18"
+      text-style: bold;
+      font: sans-serif;
+      margin-bottom: 0;
+    }
+    p { text-align: center;
+        text-size: "10";
+        margin-top:0;
+      }
